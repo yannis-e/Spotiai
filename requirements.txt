@@ -1,1 +1,3 @@
-
+openai
+spotipy
+python-dotenv
