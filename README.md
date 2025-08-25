@@ -1,5 +1,3 @@
-# Spotiai
-
 > [!WARNING]  
 > May be outdated !!!
 
